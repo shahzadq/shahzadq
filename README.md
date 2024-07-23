@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-**I'm Shahzad**, a fullstack typescript enthusiast from London.
+**I'm Shahzad**, a fullstack coding enthusiast from London.
 
-- ⌨️ Mostly use Typescript, but also have a little experience with other langauges (Python, Java, PHP & C#).
+- ⌨️ Have experience with manu programming languages including JavaScript (& TypeScript), Python, Java, C# & PHP.
 - 🎓 Have a Bachelors in Computing & IT.
-- 🏫 Currently learning testing tools like Jest.
-- 🛠️ Built and published a couple small packages to NPM ([ts-mq](https://github.com/shahzadq/ts-mq) & [zustand-persist-cookie-storage](https://github.com/shahzadq/zustand-persist-cookie-storage)).
+- 🏫 Currently learning Jest and Rust.
+- 🛠️ Built and published a couple of packages to NPM ([ts-mq](https://github.com/shahzadq/ts-mq) & [zustand-persist-cookie-storage](https://github.com/shahzadq/zustand-persist-cookie-storage)).
 - 🕒 Interested in learning new languages, technologies and frameworks.
